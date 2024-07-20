@@ -1,4 +1,8 @@
 <div id="header" align="center">
+  <div style="text-align: center;">
+    <img src="https://github.com/OD1NO4ka69/OD1NO4ka69/blob/main/hamster-wave.gif" width="250" alt="Waving Hamster"/>
+  </div>
+  
   <div id="badges">
     <a href="https://www.youtube.com/@OD1NO4ka">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
