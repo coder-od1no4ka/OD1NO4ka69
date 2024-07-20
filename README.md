@@ -32,7 +32,7 @@ I am Nikita, a Full Stack Developer from Greece. I specialize in creating websit
 
 - :zap: In my free time from orders, I watch videos and study something new or read modern literature)
 
-- :mailbox: [![My prices Badge](https://img.shields.io/badge/My%20prices-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/zakazi_coder_od1no4ka)
+- :heavy_dollar_sign: [![My prices Badge](https://img.shields.io/badge/My%20prices-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/zakazi_coder_od1no4ka)
 
 You can also check all the details on my website.
 
