@@ -1,17 +1,13 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <div id="badges">
-    <a href="your-linkedin-URL">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <a href="https://www.youtube.com/@OD1NO4ka">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
     </a>
-    <a href="your-youtube-URL">
-      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    <a href="https://t.me/coder_od1no4ka">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="your-twitter-URL">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+</div>
+  <img src="https://komarev.com/ghpvc/?username=OD1NO4ka69&style=flat-square&color=blue" alt="Profile views"/>
   <h1>
     hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -23,15 +19,25 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+### :man_technologist: About Me :
+I am Nikita, a Full Stack Developer from Greece. I specialize in creating websites and Telegram bots on demand. All information, including pricing and reviews, can be found on my Telegram.
 
-- :seedling: Exploring Technical Content Writing.
+- :hamster: I’m an 18-year-old university student majoring in Information Security. I develop custom websites and Telegram bots to order.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :school: Passionate about learning new technologies and improving my skills, I’m always on the lookout for innovative solutions to complex problems.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :zap: In my free time from orders, I watch videos and study something new or read modern literature)
+
+- :mailbox: How to reach me: [![My prices Badge](https://img.shields.io/badge/My%20prices-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/zakazi_coder_od1no4ka)
+
+You can also check all the details on my website.
+
+
+<div align="center">
+    <a href="http://d98955ji.beget.tech/video.html">
+        <img src="https://img.shields.io/badge/My%20Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge"/>
+    </a>
+</div>
 
 ---
 
@@ -49,12 +55,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OD1NO4ka69&theme=dark&background=000000)](https://github.com/OD1NO4ka69)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OD1NO4ka69&layout=compact&theme=vision-friendly-dark)](https://github.com/OD1NO4ka69)
 
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
