@@ -61,7 +61,5 @@ You can also check all the details on my website.
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OD1NO4ka69&theme=dark&background=000000)](https://github.com/OD1NO4ka69)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OD1NO4ka69&layout=compact&theme=vision-friendly-dark)](https://github.com/OD1NO4ka69)
-
 ---
 
