@@ -38,7 +38,7 @@ You can also check all the details on my website.
 
 
 <div align="center">
-    <a href="http://d98955ji.beget.tech/video.html">
+    <a href="https://od1no4ka.ru">
         <img src="https://img.shields.io/badge/My%20Website-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Website Badge"/>
     </a>
 </div>
